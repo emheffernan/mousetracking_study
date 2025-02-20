@@ -14,7 +14,7 @@ Critically, this experiment has two conditions: one where the exceptions look ve
 
 ## The analysis
 
-Analysis files for the two conditions are included in this repository as “analysis_3-1.nb.html” and “analysis_3-2.nb.html”. Here I assess accuracy (how well participants learned) and mouse-tracking data (which stimulus features were participants looking at throughout the experiment?). 
+Analysis files for the two conditions are included in this repository as “[analysis_3-1.nb.html]([url](https://rawcdn.githack.com/emheffernan/mousetracking_study/ee86dbf42f70bfe92cca400e0083582cb0ec2336/analysis_3_1.nb.html))” and “[analysis_3-2.nb.html]([url](https://rawcdn.githack.com/emheffernan/mousetracking_study/ee86dbf42f70bfe92cca400e0083582cb0ec2336/analysis_3_2.nb.html))” (clicking either of these links will let you view the rendered html file). Here I assess accuracy (how well participants learned) and mouse-tracking data (which stimulus features were participants looking at throughout the experiment?). 
 
 ## The results
 
