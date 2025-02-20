@@ -20,4 +20,4 @@ Analysis files for the two conditions are included in this repository as “[ana
 
 (Very) briefly, I find that the most successful learners are the ones who rapidly expand their attention to consider new features when the exceptions are introduced. However, this is only true when exceptions look very similar to rule-followers. These data suggest that surprising information (that goes against what we previously learned) influences our attention and subsequent learning, but the level of surprise is important.
 
-_You can see a presentation I gave on this data in the pdf file in this repository._
+_I'm currently preparing a manuscript of this work for publication. You can see a presentation I gave on this data in the pdf file in this repository._
